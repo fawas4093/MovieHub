@@ -1,1 +1,3 @@
+
+
 An Online Movie Rights & Telecasting Platform developed using PHP, React, and phpMyAdmin, designed for television channel members to purchase and manage movie telecast rights. The system allows channels to buy movies for a specified duration, track telecasting schedules, and streamline the rights management process. It addresses the inefficiencies of traditional methods by providing a centralized, user-friendly, and scalable solution for movie rights transactions and broadcasting.
